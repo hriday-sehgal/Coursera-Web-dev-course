@@ -1,6 +1,6 @@
 # Coursera-Web-dev-course
 
-Coursera Html Css and Javascript for web developers course by John Hopkins University
+This repo contains Solution modules for Coursera HTML CSS and Javascript for Web Developers Course by John Hopkins University 
 
 Output for module 2 assignment - https://hriday-sehgal.github.io/Coursera-Web-dev-course/module2-solution/index.html
 
